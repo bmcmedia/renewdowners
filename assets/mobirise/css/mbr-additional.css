@@ -711,14 +711,14 @@ section.form .container {
 #menu-h A {
   font-family: 'Cinzel', serif;
 }
-#msg-box8-q .mbr-section-title,
-#msg-box8-q p {
-  color: #fff;
-}
 #features7-p .card-subtitle {
   color: #bcbcbc;
 }
 #features7-p .iconbox {
   background-color: #3d8eb9;
   border-color: #3d8eb9;
+}
+#msg-box8-q .mbr-section-title,
+#msg-box8-q p {
+  color: #fff;
 }
